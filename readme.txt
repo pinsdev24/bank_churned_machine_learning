@@ -1,0 +1,4 @@
+Un responsable de la banque est dérangé par le fait que de plus en plus de clients quittent leurs services de carte de crédit. Ils apprécieraient vraiment que l'on puisse prédire pour eux qui va être déstabilisé afin qu'ils puissent s'adresser de manière proactive au client pour lui fournir de meilleurs services et faire tourner les décisions des clients dans la direction opposée.
+J'utilise cela depuis un certain temps pour obtenir des ensembles de données et travailler en conséquence pour produire des résultats fructueux. Le site explique comment résoudre un problème commercial particulier.
+Désormais, cet ensemble de données comprend 10 000 clients mentionnant leur âge, leur salaire, leur état matrimonial, leur limite de carte de crédit, leur catégorie de carte de crédit, etc.
+Nous n'avons que 16,07% de clients qui ont désabusé. Ainsi, il est un peu difficile de former notre modèle à prédire le roulement des clients.
